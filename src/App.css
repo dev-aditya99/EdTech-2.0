@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url("https://images.pexels.com/photos/673648/pexels-photo-673648.jpeg?auto=compress&cs=tinysrgb&w=600") no-repeat center;
+  background-size: cover;
+  font-family: 'Poppins', sans-serif;
+}
+
+.main {
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(15px);
+}
