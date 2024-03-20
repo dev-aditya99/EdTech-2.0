@@ -49,7 +49,7 @@ function Header() {
     <div className="w-full max-w-[1200px] mx-auto text-[#dc944b] py-8 px-5 flex items-center justify-between">
       <div className="font-bold min-[446px]:text-[2rem] text-[1.5rem]">
         <Link to="/" className="flex items-center gap-1">
-          <img src="src\assets\FavIcons\favicon-32x32.png" alt="404" />
+          <img src="public\FavIcons\favicon-32x32.png" alt="404" />
           EdTech
         </Link>
       </div>
