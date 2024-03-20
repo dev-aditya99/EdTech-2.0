@@ -10,7 +10,10 @@ function Footer() {
         <div className="">
           <div className="font-bold min-[446px]:text-[2rem] text-[1.5rem] text-[#dc944b] mb-2">
             <Link to="/" className="flex items-center gap-1">
-              <img src="public\FavIcons\favicon-32x32.png" alt="404" />
+              <img
+                src="https://github.com/dev-aditya99/EdTech-2.0/blob/main/public/FavIcons/favicon-32x32.png?raw=true"
+                alt="404"
+              />
               EdTech
             </Link>
           </div>
